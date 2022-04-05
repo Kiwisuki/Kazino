@@ -67,7 +67,7 @@ input[type=submit] {
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
-  background-color: "#00004b";
+  background-color: #00004b;
 }
 
 label {
@@ -79,11 +79,16 @@ label {
 }
 
 .grid-item {
-  background-color: rgba(255, 255, 255, 0.8);
-  border: 1px solid black;
+  background-color: #00004b;
+  border: 0px solid black;
   padding: 20px;
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
+}
+
+.agame {
+	font-size: 16px;
+	font-weight:bold;
 }
 
 a {
