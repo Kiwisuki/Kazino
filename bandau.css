@@ -11,11 +11,17 @@
   min-width: 240px;
 }
 
+.balanso{
+	background-color: #008000;
+	color: white;
+	width:180px;
+	font-family:Roboto;
+}
 
 
 .borderis{
 	border:10px solid white;
-	border-radius: 360px;
+	border-radius: 150px;
 }
  
 .logo{
